@@ -19,6 +19,6 @@ int main()
     printf("scegli un altro numero\n");
     int n2;
     scanf("%d", &n2);
-    printf("%d\n", n2);
+    printf("basta mi sono rotto il cazzo\n");
     return(0);
 }
