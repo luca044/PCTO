@@ -5,7 +5,7 @@ int main() {
     int x=0;
 
     printf("Inserisci una parola:\n");
-    scanf(" %s", parola);
+    fgets(parola, 100, stdin);
 
     while(parola[x] != '\0') {
         
